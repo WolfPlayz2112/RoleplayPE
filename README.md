@@ -1,2 +1,6 @@
 # RoleplayPE
-A MinecraftPE Plugin
+A MinecraftPE Plugin FOR ROLEPLAY USERS
+
+# Adding
+
+# Glitches/Bugs
